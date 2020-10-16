@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=rafaelbarbosatec&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515)
 
 <!--
 **RafaelBarbosatec/rafaelbarbosatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
