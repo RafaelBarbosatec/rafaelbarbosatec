@@ -1,3 +1,8 @@
+
+# Mobile Developer(Android/Flutter) 
+
+ In love with solutions that fit in the palm of the hand! 
+
 ![](https://github-readme-stats.vercel.app/api?username=rafaelbarbosatec&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515)
 
 <!--
